@@ -8,7 +8,8 @@
 			var ApiKeys = require("ApiKeys");
 
 			Parse.initialize(ApiKeys.appId, ApiKeys.jsKey);
-
+			Parse.serverURL="https://parseapi.back4app.com/"
+			
 			var Tag = Parse.Object.extend("Tag");
 
 			var tags = Observable();
