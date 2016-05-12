@@ -1,5 +1,5 @@
 # Using Parse with Fuse Example
-Example project to accompany the "[Using Parse with Fuse](https://youtu.be/Th0V2p7EmXw)" Fuse tutorial video. This is a super simple app using [Parse](https://www.parse.com) as a backend service, where anyone can simply post text, and anyone else can see that text. All relevant code is in the `MainView.ux` file.
+Example project to accompany the "[Using Parse with Fuse](https://youtu.be/Th0V2p7EmXw)" Fuse tutorial video. This is a super simple app using [back{4}app](https://back4app.com) as a backend service, where anyone can simply post text, and anyone else can see that text. All relevant code is in the `MainView.ux` file.
 
 Note: This example has also been ported to use [Syncano](https://www.syncano.io/) in [@bolav](https://github.com/bolav)'s fork: https://github.com/bolav/fuse-example-using-syncano !
 
@@ -18,6 +18,8 @@ Once that's done, you're ready to roll!
 
 ## Fuse version
 This example was produced with Fuse (beta) v0.8.4.
+
+And there is another repo with newer v0.12.4 at: https://github.com/tim-hub/fuse-tutorial-project/tree/master/Lesson13UsingParse
 
 ## Branches
 The "finished product" is on the `master` branch, and the template I started with in the video is on the `starting-template` branch.
